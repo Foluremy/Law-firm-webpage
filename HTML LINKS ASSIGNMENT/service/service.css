@@ -1,0 +1,22 @@
+header {
+    background-color: black; color: gold; text-align: center;
+}
+
+main {
+    text-align: center; background-color:darkgrey;
+}
+
+.services{
+    text-align:left;
+    }
+    
+main section{
+    background-color:grey;
+}
+
+footer{
+    background-color: black; color:gold; text-align:center;
+}
+
+footer a{
+    color:gold;
