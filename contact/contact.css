@@ -1,0 +1,19 @@
+header {
+    background-color: black; color: gold; text-align: center;
+}
+
+main {
+    text-align: center; background-color:darkgrey;
+}
+
+main p a{
+    color:black;
+}
+
+footer{
+    background-color: black; color:gold; text-align:center;
+}
+
+footer a{
+    color:gold;
+}
